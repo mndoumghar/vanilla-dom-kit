@@ -1,5 +1,5 @@
 ﻿export function appendChildren(parent, children) {
-  
+
   const list = Array.isArray(children) ? children : [children];
 
   for (const child of list) {
