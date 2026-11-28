@@ -14,5 +14,20 @@
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest"
+  },
+  "license": "MIT",
+  "files": [
+    "src/index.js",
+    "src/element.js",
+    "src/children.js",
+    "src/visibility.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mndoumghar/vanilla-dom-kit.git"
+  },
+  "homepage": "https://github.com/mndoumghar/vanilla-dom-kit#readme",
+  "bugs": {
+    "url": "https://github.com/mndoumghar/vanilla-dom-kit/issues"
   }
 }
